@@ -19,6 +19,7 @@ In the same way that computer vision is positioned to soon surpass human vision,
 
 First, our analysis model must be able to identify instruments. Artificial neural networks could be trained to 'guess' which instrument made a sound, based on their training data.
 
+![](/images/green%20piano%20graph.jpg)
 Graphical representation of an instrument-recognizing probabilistic function. < % instrument probability > ex: Piano, Guitar, etc. 
 
 One way we could train these networks would be to let the program identify patterns on its own, isolate the sounds, and ask us humans to classify the sound with text. This could be a crowdsourced effort, similar to how Google trains some of its neural networks with its "Crowdsource" app. 
